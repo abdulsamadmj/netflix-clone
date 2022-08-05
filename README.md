@@ -1,3 +1,7 @@
+You can view the hosted app by visiting https://abdulsamadmj.github.io/netflix-clone/
+
+This one is a beginner level ReactJS app, as the name suggests, the clone of netflix UI.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
